@@ -2080,7 +2080,7 @@
 				"canBeNegative": "F",
 				"experimentalStatistic": "F",
 				"sourceDate": "10/09/2025",
-				"sourceURL": "https://www.ons.gov.uk/economy/regionalaccounts/grossdisposablehouseholdincome/bulletins/regionalgrossdisposablehouseholdincomegdhi/previousReleases",
+				"sourceURL": "https://www.ons.gov.uk/economy/regionalaccounts/grossdisposablehouseholdincome/bulletins/regionalgrossdisposablehouseholdincomegdhi/previousreleases",
 				"sourceOrg": "Office for National Statistics",
 				"longDescription": "This indicator shows an estimate of the amount of money each individual within a household has available for spending or saving after they have paid taxes and received any direct benefits, in pounds, in the UK, for 1997 to 2023.",
 				"standardised": "T",
