@@ -50,7 +50,7 @@
 		},
 		{
 			"code": "gross-disposable-household-income-per-head",
-			"label": "Gross disposable household income"
+			"label": "Gross disposable household income per head"
 		},
 		{
 			"code": "gross-median-weekly-pay",
@@ -2065,11 +2065,11 @@
 			"code": "gross-disposable-household-income-per-head",
 			"": null,
 			"minXDomainNumb": 1997,
-			"maxXDomainNumb": 2022,
+			"maxXDomainNumb": 2023,
 			"metadata": {
 				"code": "gross-disposable-household-income-per-head",
 				"slug": "gross-disposable-household-income-per-head",
-				"label": "Gross disposable household income",
+				"label": "Gross disposable household income per head",
 				"prefix": "£",
 				"suffix": "",
 				"subText": null,
@@ -2079,12 +2079,12 @@
 				"zeroBaseline": "F",
 				"canBeNegative": "F",
 				"experimentalStatistic": "F",
-				"sourceDate": "04/09/2024",
+				"sourceDate": "10/09/2025",
 				"sourceURL": "https://www.ons.gov.uk/economy/regionalaccounts/grossdisposablehouseholdincome/bulletins/regionalgrossdisposablehouseholdincomegdhi/previousReleases",
 				"sourceOrg": "Office for National Statistics",
-				"longDescription": "This indicator shows an estimate of the amount of money each individual within a household has available for spending or saving after they have paid taxes and received any direct benefits, in pounds, in the UK, for 1997 to 2022.",
+				"longDescription": "This indicator shows an estimate of the amount of money each individual within a household has available for spending or saving after they have paid taxes and received any direct benefits, in pounds, in the UK, for 1997 to 2023.",
 				"standardised": "T",
-				"caveats": "Figures for 2022 are provisional, as national estimates have not been through supply and use balancing at the time of the data source publication.",
+				"caveats": "Figures for 2023 are provisional, as national estimates have not been through supply and use balancing at the time of the data source publication.",
 				"confidenceIntervals": "F",
 				"initialGeographyLevel": "ltla",
 				"beeswarmRowUseMinMax": "F"
@@ -2205,7 +2205,8 @@
 				2019,
 				2020,
 				2021,
-				2022
+				2022,
+				2023
 			]
 		},
 		"gross-median-weekly-pay": {

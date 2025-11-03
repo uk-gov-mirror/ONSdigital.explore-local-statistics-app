@@ -11,7 +11,7 @@ id,topic,subTopic,code,,minXDomainNumb,maxXDomainNumb
 12,economy,employment,employment-rate-Employment rate,,2004,2023
 28,economy,employment,ni-employment-rate-Employment rate,,2023,2023
 1,economy,employment,aged-16-years-and-over-modelled-unemployment,,2004,2023
-2,economy,pay and income,gross-disposable-household-income-per-head,,1997,2022
+2,economy,pay and income,gross-disposable-household-income-per-head,,1997,2023
 21,economy,pay and income,gross-median-weekly-pay,,2008,2024
 118,economy,pay and income,children-in-relative-poverty,,2014,2023
 24,economy,trade,total-value-of-uk-exports,,2019,2022
